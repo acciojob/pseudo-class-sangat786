@@ -5,7 +5,7 @@ p::before{
 }
 p::after{
     color:#f00;
-    content: "Before Element";
+    content: "After Element";
     font-size: 20px;
      
 }
